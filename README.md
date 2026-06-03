@@ -7,14 +7,15 @@ IMPORTANTE: Assim como informado anteriormente, capriche na etapa pois você vai
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Vinicius Eduardo de Souza Matos Silva
+- Matricula: 911693
+- Resumo da estrutura do db.json: contém carreira: array de objetos; cada objeto representa uma passagem (clube/seleção) e guarda: identificador (id), nome do clube, periodo, estatísticas numéricas (jogos, gols, assistencias, titulos), descricao (texto), caminho de imagem (relativo em public/assets/img/...) e fotos (array de objetos com titulo e imagem).
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![alt text](/codigo/public/assets/img/print-cards.png)
 
 <<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+![alt text](/codigo/public/assets/img/print-detalhes.png)
 
